@@ -3,6 +3,8 @@
 Gendloc++ est une application visant à étendre les fonctionnalités
 de l'application Gendloc développée la Gendarmerie Nationale.
 
+Cette application a été développée par l'équipe EISTI Pau /  Ecole 42 à l'occasion du premier hackathon Gendarmerie, qui s'est déroulé du 28 au 20 Avril 2016 dans les locaux de la DGGN à Issy Les Moulineaux. Le dépôt original est https://github.com/FunkySayu/GendLoc- 
+
 ## Fonctionnalités
 
 - envoi d'un flux vidéo/audio de la personne sur les lieux (victime, témoin, gendarme, ...) à l'opérateur
